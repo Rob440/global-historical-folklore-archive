@@ -1,0 +1,162 @@
+# Global Historical & Folklore Geographic Archive
+
+## System Architecture
+
+Version:
+0.1 — Initial Architecture Definition
+
+Status:
+Prototype Planning Phase
+
+---
+
+# Overview
+
+The archive is designed as a layered research system.
+
+Each layer has a specific purpose while remaining connected to the others.
+
+The architecture separates:
+
+- Original sources
+- Structured records
+- Geographic information
+- Historical context
+- Knowledge relationships
+- Research analysis
+
+This allows the system to expand without changing its fundamental structure.
+
+---
+
+# Core Architecture Model
+
+The system consists of the following layers:
+Source Layer
+
+↓
+
+Data Organization Layer
+
+↓
+
+Geographic and Historical Context Layer
+
+↓
+
+Knowledge Relationship Layer
+
+↓
+
+Exploration and Analysis Layer
+
+---
+
+# Source Layer
+
+The Source Layer contains original materials from which records are created.
+
+Examples:
+
+- Newspaper articles
+- Books
+- Archival documents
+- Military records
+- Maritime logs
+- Interviews
+- Oral tradition collections
+
+Sources preserve:
+
+- Original content
+- Creator information
+- Date
+- Language
+- Archive reference
+- Quality information
+
+A source is never replaced by a summary.
+
+---
+
+# Data Organization Layer
+
+This layer converts source material into structured records.
+
+A record may represent:
+
+- Incident
+- Tradition
+- Observation
+- Historical account
+- Research note
+
+Records maintain connections to:
+
+- Original sources
+- Geographic information
+- Historical context
+- Related records
+- Research notes
+
+---
+
+# Geographic and Historical Context Layer
+
+This layer provides spatial and temporal information.
+
+It supports:
+
+- Locations
+- Historical place names
+- Changing political boundaries
+- Terrain
+- Geological features
+- Environmental conditions
+
+Locations are treated as historical entities rather than fixed points.
+
+---
+
+# Knowledge Relationship Layer
+
+This layer connects information together.
+
+Examples:
+
+- Similar reports
+- Possible duplicates
+- Shared locations
+- Cultural connections
+- Source lineage
+- Historical continuity
+
+Relationships are stored separately so they can evolve without altering original evidence.
+
+---
+
+# Exploration and Analysis Layer
+
+This is the researcher-facing environment.
+
+Capabilities include:
+
+- Interactive maps
+- Timelines
+- Search
+- Filtering
+- Record comparison
+- Geographic analysis
+- Relationship visualization
+
+The system supports discovery without forcing conclusions.
+
+---
+
+# Architecture Principle
+
+The archive stores evidence.
+
+The researcher explores relationships.
+
+
